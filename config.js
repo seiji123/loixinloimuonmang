@@ -1,32 +1,32 @@
 const CONFIG = {
 
-    introTitle: 'Này cậu!',
+    introTitle: 'Này Yumi-chan!',
 
-    introDesc: `Tớ có điều muốn hỏi`,
+    introDesc: `T có điều muốn nói`,
 
-    btnIntro: 'Hỏi đi',
+    btnIntro: 'Nói đi',
 
-    title: 'Cậu đang thik tớ đúng không? 😙',
+    title: 'Cho t thêm 1 cơ hội để sửa lỗi được không 😙',
 
-    desc: 'Phải trả lời thật lòng nha',
+    desc: 'M có đồng ý để t làm lại cuộc đời không?',
 
-    btnYes: 'Vâng! Tớ rất là thik cậu <33',
+    btnYes: 'Tất nhiên rồi boku no tomodachi',
 
-    btnNo: 'Không nha :3',
+    btnNo: 'Cút đi con chó ăn cứt -_,-',
 
-    question:'Trên thế giới hơn 7 tỉ người mà sao cậu lại thik tớ <3',
+    question:'Nếu tha lỗi rồi mở block được không <3?',
 
-    btnReply: 'Gửi cho cậu <3',
+    btnReply: 'Ý chỉ của m là tất cả',
 
     reply: 'Vì cậu rất ngầu và đẹp trai >_<',
 
-    mess: 'Tớ biết mà 🥰. Thật ra tớ cũng rất là thik cậu 😘😘',
+    mess: '🥰Từ giờ t sẽ thay đổi và chúng ta không bao giờ như vậy nữa nhé',
 
-    messDesc: 'Vậy từ giờ trở đi chúng ta là người yêu của nhau rôi nha.',
+    messDesc: 'và chúng ta không bao giờ như vậy nữa nhé boku no bestfriendo.',
 
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Biết rồi nói ít thôi phiền wa',
 
-    messLink: 'https://m.me/100010557631588 ' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://m.me/seijioiw ' //link mess của các bạn. VD: https://m.me/nam.nodemy
 
 }
 
